@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  background-color: #545454;
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: flex;
+}
+
+h2 {
+  color: white;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
